@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">سلام! من امیرمحمد هستم 👋</h1>
 
-<!--
-**amirmohammad138/amirmohammad138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 دانشجوی مهندسی نرم‌افزار  
+💻 عاشق جاوااسکریپت، React و امنیت سایبری  
+🚀 همیشه در حال یادگیری چیزهای جدید
 
-Here are some ideas to get you started:
+## 🛠️ مهارت‌ها
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 آمار گیت‌هاب من
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirmhd&show_icons=true&theme=radical)
+
+## 🔗 لینک‌های من
+- 🌐 [سایت من](https://yourwebsite.com)
+- 💼 [LinkedIn](https://linkedin.com/in/you)
