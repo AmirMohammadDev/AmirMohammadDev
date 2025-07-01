@@ -1,51 +1,34 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="45" height="45" /> About Me
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00B2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Amir+Mohammad;A+Frontend+Developer+from+Iran;I+Love+JavaScript+%26+UI+Design)](https://git.io/typing-svg)
-
-<br>
-🚀 Passionate frontend developer with a strong love for building responsive and user-friendly web applications.<br>
-🧠 I work with modern technologies like React, Tailwind, and Bootstrap.<br>
-🎯 I constantly learn and build side projects to improve my skills.<br>
-💬 Let’s build something cool together!
-<br><br>
-
----
-
-<h1 align="center">🛠️ Tech Stack</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,bootstrap,react,cs,javascript&perline=8" />
-  </a>
-</p>
-
----
-
-<h1 align="center">📊 GitHub Stats</h1>
+<!-- 👋 Intro -->
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmirMohammadDev&theme=tokyonight&hide_border=false)<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadDev&langs_count=8&layout=compact&theme=tokyonight)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B2FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Amir+Mohammad;Frontend+Developer+%7C+JavaScript+Enthusiast;Clean+Code+%7C+Creative+Mind+%7C+Problem+Solver" />
 </div>
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-<div align="center">
-  <img src="https://github.com/AmirMohammadDev/AmirMohammadDev/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
-</div>
+<!-- 🧑‍💻 About -->
+### 🙋‍♂️ About Me
+
+Hi! I’m **Amir Mohammad**, a passionate **Frontend Developer** from Iran 🇮🇷  
+I enjoy building responsive and creative web interfaces with **React**, **Tailwind CSS**, and **Vanilla JS**.  
+Always exploring new technologies and pushing my limits.
+
+> 💡 *"Creativity is intelligence having fun."* – Albert Einstein
 
 ---
 
-<h1 align="center">💡 Dev Quote</h1>
-<div align="center">
-  
-> <img src="https://img.icons8.com/color/48/code.png" width="24"/>  
-> <i style="font-size: 18px; font-style: italic;">“Code is like humor. When you have to explain it, it’s bad.”</i>  
-> <br>– Cory House
+<!-- 🧠 Tech Stack -->
+### 🧠 Tech Stack
 
-</div>
+```ts
+Languages     →  JavaScript • C# • HTML • CSS  
+Frameworks    →  React • Bootstrap • Tailwind CSS  
+Tools         →  Git • VSCode • Figma • Chrome DevTools
 
----
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AmirMohammadDev&show_icons=true&theme=radical&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadDev&layout=compact&theme=radical&hide_border=true" height="180"/> </div>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=AmirMohammadDev&label=Profile%20Views&color=6A93FF&pretty=false)
+
+<div align="center"> <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&textColor=%23ffffff&aColor=%23ff6f61&fontSize=14" /> </div>
+
+
+
+<!-- 🚀 Footer --> <p align="center"> 🚀 Striving for better code, better UI, and a better world 🌍 <br>🛠️ Built with passion. Powered by coffee ☕ and curiosity 💭 </p> ```
